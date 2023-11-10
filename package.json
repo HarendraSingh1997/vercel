@@ -146,5 +146,10 @@
         }
       }
     ]
+  },
+  "dependencies": {
+    "@vercel/edge-config": "0.4.1",
+    "electron": "27.0.4",
+    "next": "14.0.2"
   }
 }
